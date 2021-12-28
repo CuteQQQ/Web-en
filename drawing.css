@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(172, 241, 155);
+}
+.center{
+    text-align:center;
+}
+h1{
+    background-color:gray;
+    color:#59EFF7;
+    font-family:Helvetica;
+}
+h2{
+    font-family:sans-serif;
+}

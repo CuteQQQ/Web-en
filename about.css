@@ -1,0 +1,11 @@
+body{
+    background-color:lightcoral;
+}
+.center{
+    text-align:center;
+}
+h1{
+    color:orchid;
+    background-color:lightgreen;
+    font-family:Arial;
+}

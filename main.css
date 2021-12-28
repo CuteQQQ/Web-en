@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(181, 247, 241);
+}
+.center{
+    text-align:center;
+}
+h1{
+    background-color:yellow;
+    font-size:50px;
+    font-family:Arial;
+}
