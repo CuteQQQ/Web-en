@@ -1,0 +1,16 @@
+body{
+    background-color:lightcoral;
+}
+.center{
+    text-align:center;
+}
+.text{
+    font-family:Helvetica;
+}
+h1{
+    color:orchid;
+    background-color:lightgreen;
+}
+h2{
+    color:midnightblue;
+}

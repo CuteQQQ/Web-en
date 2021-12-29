@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(172, 241, 155);
+}
+.center{
+    text-align:center;
+}
+.text{
+    font-family:Helvetica;
+}
+h1{
+    background-color:gray;
+    color:#59EFF7;
+}
+h2{
+    font-family:sans-serif;
+}
