@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(172, 241, 155);
+}
+.bar{
+    width:13%;
+    height:8%;
+}
+.photo{
+    width:16%;
+    height:8%;
+}
+.center{
+    text-align:center;
+}
+.text{
+    font-family:Helvetica;
+}
+h1{
+    background-color:gray;
+    color:#59EFF7;
+}
+h2{
+    font-family:sans-serif;
+}

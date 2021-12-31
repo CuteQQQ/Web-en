@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(181, 247, 241);
+}
+.bar{
+    width:13%;
+    height:8%;
+}
+.center{
+    text-align:center;
+}
+.text{
+    font-family:Helvetica;
+}
+h1{
+    background-color:yellow;
+    font-size:50px;
+    font-family:Arial;
+}
