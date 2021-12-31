@@ -2,12 +2,12 @@ body{
     background-color:rgb(172, 241, 155);
 }
 .bar{
-    width:13%;
-    height:8%;
+    width:200px;
+    height:150px;
 }
 .photo{
-    width:16%;
-    height:8%;
+    width:250px;
+    height:150px;
 }
 .center{
     text-align:center;
