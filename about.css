@@ -1,0 +1,27 @@
+body{
+    background-color:lightcoral;
+}
+.bar{
+    width:200px;
+    height:150px;
+}
+.photo{
+    width:250px;
+    height:150px;
+}
+.center{
+    text-align:center;
+}
+.text{
+    font-family:Helvetica;
+}
+h1{
+    color:orchid;
+    background-color:lightgreen;
+}
+h2{
+    color:midnightblue;
+}
+h3{
+    color:gray;
+}
