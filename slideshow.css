@@ -19,6 +19,16 @@ body{
     width:15%;
     height:5%;
 }
+h1{
+    background-color:gray;
+    color:#59EFF7;
+}
+h2{
+    font-family:sans-serif;
+}
+p2{
+    font-size:40px;
+}
 * {box-sizing:border-box}
 
 /* Slideshow container */
