@@ -12,6 +12,11 @@ body{
 .center{
     text-align:center;
 }
+.centers{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .text{
     font-family:Helvetica;
 }
